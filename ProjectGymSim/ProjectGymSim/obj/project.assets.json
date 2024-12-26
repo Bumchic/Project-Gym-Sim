@@ -1472,24 +1472,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bumchic\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\hoang\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bumchic\\Documents\\GitHub\\Project-Gym-Sim\\ProjectGymSim\\ProjectGymSim\\ProjectGymSim.csproj",
+      "projectUniqueName": "C:\\Users\\hoang\\Documents\\Project-Gym-Sim\\ProjectGymSim\\ProjectGymSim\\ProjectGymSim.csproj",
       "projectName": "ProjectGymSim",
-      "projectPath": "C:\\Users\\Bumchic\\Documents\\GitHub\\Project-Gym-Sim\\ProjectGymSim\\ProjectGymSim\\ProjectGymSim.csproj",
-      "packagesPath": "C:\\Users\\Bumchic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bumchic\\Documents\\GitHub\\Project-Gym-Sim\\ProjectGymSim\\ProjectGymSim\\obj\\",
+      "projectPath": "C:\\Users\\hoang\\Documents\\Project-Gym-Sim\\ProjectGymSim\\ProjectGymSim\\ProjectGymSim.csproj",
+      "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hoang\\Documents\\Project-Gym-Sim\\ProjectGymSim\\ProjectGymSim\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "C:\\Users\\Bumchic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1497,7 +1493,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1514,9 +1509,8 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+        "auditMode": "all"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -1559,7 +1553,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\hoang\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

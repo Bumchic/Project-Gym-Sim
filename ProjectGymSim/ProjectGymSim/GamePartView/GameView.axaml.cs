@@ -8,9 +8,11 @@ namespace ProjectGymSim.GamePartView;
 
 public partial class GameView : Window
 {
+    public static int DelayTime { get; set; } = 1000;
     public double Progress { get; set; }
     private const double UpperLim = 100.0;
     private const double LowerLim = 0.0;
+    
     public GameView()
     {
         InitializeComponent();
@@ -26,7 +28,7 @@ public partial class GameView : Window
             Progress = Progress - 0.5;
             this.ProgressBar.Value = Progress;
             Console.WriteLine(Progress);
-            Task.Delay(1000).Wait();
+            Task.Delay(DelayTime).Wait();
         }
         this.Title = Progress.ToString();
     }

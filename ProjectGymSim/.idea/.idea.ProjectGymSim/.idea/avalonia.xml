@@ -7,6 +7,7 @@
         <entry key="ProjectGymSim/GamePartView/GamePartView.axaml" value="ProjectGymSim/ProjectGymSim.csproj" />
         <entry key="ProjectGymSim/GamePartView/GameView.axaml" value="ProjectGymSim/ProjectGymSim.csproj" />
         <entry key="ProjectGymSim/MainWindow.axaml" value="ProjectGymSim/ProjectGymSim.csproj" />
+        <entry key="ProjectGymSim/SelectDifficulty/Window1.axaml" value="ProjectGymSim/ProjectGymSim.csproj" />
       </map>
     </option>
   </component>
