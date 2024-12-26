@@ -8,5 +8,5 @@
         x:Class="Project_Gym_Sim.Views.MainWindow"
         Icon="/Assets/avalonia-logo.ico"
         Title="Project_Gym_Sim">
-        <views:MainView />
+        
 </Window>
