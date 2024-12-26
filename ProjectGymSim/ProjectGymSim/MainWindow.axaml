@@ -1,0 +1,30 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="ProjectGymSim.MainWindow"
+        Title="Options" Width="400" Height="200">
+        <Grid>
+                <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.3*"/> <!-- Cột chứa Options -->
+                        <ColumnDefinition Width="0.7*"/>   <!-- Khu vực nội dung -->
+                </Grid.ColumnDefinitions>
+        
+                <DockPanel Grid.Column="0" Margin="5" Background="Black">
+                        <!-- Text tiêu đề nằm trên cùng -->
+                        
+                        <TextBlock Text="Options" FontWeight="Bold" DockPanel.Dock="Top" FontSize="16" Margin="5" HorizontalAlignment="Center"/>
+                        <!-- StackPanel chứa các nút nằm ở góc dưới cùng -->
+                        <StackPanel Orientation="Vertical" VerticalAlignment="Bottom" Margin="5">
+                                
+                                <Button Name="EasyButton" Content="Easy" Margin="5" HorizontalAlignment="Stretch"/>
+                                <Button Name="NormalButton" Content="Normal" Margin="5" HorizontalAlignment="Stretch"/>
+                                <Button Name="HardButton" Content="Hard" Margin="5" HorizontalAlignment="Stretch"/>
+                        </StackPanel>
+                </DockPanel>
+
+                <!-- Khu vực nội dung trống -->
+                <Border Grid.Column="1" Margin="5" BorderBrush="Black" BorderThickness="1"
+                        HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>        </Grid>
+</Window>

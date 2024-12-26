@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="ProjectGymSim/MainWindow.axaml" value="ProjectGymSim/ProjectGymSim.csproj" />
+        <entry key="ProjectGymSim/SelectDifficulty/SelectDiff.axaml" value="ProjectGymSim/ProjectGymSim.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
