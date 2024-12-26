@@ -3,6 +3,9 @@
   <component name="AvaloniaProject">
     <option name="projectPerEditor">
       <map>
+        <entry key="ProjectGymSim/App.axaml" value="ProjectGymSim/ProjectGymSim.csproj" />
+        <entry key="ProjectGymSim/GamePartView/GamePartView.axaml" value="ProjectGymSim/ProjectGymSim.csproj" />
+        <entry key="ProjectGymSim/GamePartView/GameView.axaml" value="ProjectGymSim/ProjectGymSim.csproj" />
         <entry key="ProjectGymSim/MainWindow.axaml" value="ProjectGymSim/ProjectGymSim.csproj" />
       </map>
     </option>
