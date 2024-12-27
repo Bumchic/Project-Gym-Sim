@@ -22,8 +22,11 @@ build_property.EnableGeneratedComInterfaceComImportInterop =
 [C:/Users/locdo/Downloads/GitHub/Project-Gym-Sim/ProjectGymSim/ProjectGymSim/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/locdo/Downloads/GitHub/Project-Gym-Sim/ProjectGymSim/ProjectGymSim/GamePartView/GameView.axaml]
+[C:/Users/locdo/Downloads/GitHub/Project-Gym-Sim/ProjectGymSim/ProjectGymSim/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/locdo/Downloads/GitHub/Project-Gym-Sim/ProjectGymSim/ProjectGymSim/MainWindow.axaml]
+[C:/Users/locdo/Downloads/GitHub/Project-Gym-Sim/ProjectGymSim/ProjectGymSim/Menu/GameWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/locdo/Downloads/GitHub/Project-Gym-Sim/ProjectGymSim/ProjectGymSim/Menu/MainMenu.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

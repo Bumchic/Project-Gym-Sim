@@ -19,4 +19,10 @@
             <PrivateAssets Condition="'$(Configuration)' != 'Debug'">All</PrivateAssets>
         </PackageReference>
     </ItemGroup>
+
+    <ItemGroup>
+      <UpToDateCheckInput Remove="MenuView\SrartMenu.axaml" />
+      <UpToDateCheckInput Remove="MenuView\StartMenu.axaml" />
+      <UpToDateCheckInput Remove="GamePartView\GameView.axaml" />
+    </ItemGroup>
 </Project>

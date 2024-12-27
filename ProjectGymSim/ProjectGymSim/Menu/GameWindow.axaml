@@ -3,11 +3,12 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
-        x:Class="ProjectGymSim.GamePartView.GameView"
-        Title="GameView">
-    <ProgressBar Name="ProgressBar" Orientation="Vertical" Width="30" Maximum="100"
-                 Minimum="0">
-
-    </ProgressBar>
-
+        x:Class="ProjectGymSim.Menu.GameWindow"
+        Title="GameWindow">
+        <Grid>
+                <TextBlock Text="Game Started!"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Center"
+                           FontSize="30" />
+        </Grid>
 </Window>
