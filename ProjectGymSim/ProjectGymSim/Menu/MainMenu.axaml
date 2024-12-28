@@ -4,8 +4,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="ProjectGymSim.Menu.MainMenu"
-        Title="MainMenu">
-    
+        Title="MainMenu"
+        KeyDown="OnKeyDown">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/> 
@@ -15,7 +15,7 @@
         <Menu Grid.Row="0" Background="LightGray">
             <MenuItem Header="File" Foreground="Black" >
                 <MenuItem Header="New"/> <!--Click="OnNewClick"/>-->
-                <MenuItem Header="Exit"/> <!--Click="OnExitClick"/>-->
+                <MenuItem Header="Exit" Click="OnExitClick"/>
             </MenuItem>
             <MenuItem Header="Option" Foreground="Black">
                 <MenuItem Header="About"/> <!--Click="OnAboutClick"/>-->

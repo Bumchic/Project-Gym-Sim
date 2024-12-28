@@ -19,8 +19,8 @@ public partial class App : Application
         {
             
             desktop.MainWindow = new MainMenu();
-            
-            
+       
+
         }
 
         base.OnFrameworkInitializationCompleted();
