@@ -29,3 +29,6 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [C:/Users/Bumchic/Documents/GitHub/Project-Gym-Sim/ProjectGymSim/ProjectGymSim/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Bumchic/Documents/GitHub/Project-Gym-Sim/ProjectGymSim/ProjectGymSim/PictureFrame.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
