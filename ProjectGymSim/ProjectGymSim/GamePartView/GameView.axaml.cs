@@ -41,7 +41,7 @@ public partial class GameView : Window
             {
                 Progress--;
 
-                Console.WriteLine(Progress);
+                Console.WriteLine(Progress + 1);
                 Task.Delay(100).Wait();
             }
         });
