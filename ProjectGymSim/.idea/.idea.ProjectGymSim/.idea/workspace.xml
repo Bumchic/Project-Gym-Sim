@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45be8d6a-053b-41d6-93fe-15da1a6f1db2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/avalonia.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/avalonia.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/App.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/App.axaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/Menu/GameWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/Menu/GameWindow.axaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/Menu/MainMenu.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/Menu/MainMenu.axaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.exe" afterDir="false" />
@@ -26,7 +23,6 @@
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/Avalonia/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/Avalonia/ProjectGymSim.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/ProjectGymSim.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,21 +55,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.ProjectGymSim.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Menu1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.ProjectGymSim.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Menu1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ProjectGymSim" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -106,7 +102,8 @@
       <workItem from="1735188892284" duration="127000" />
       <workItem from="1735189033984" duration="4491000" />
       <workItem from="1735220648023" duration="315000" />
-      <workItem from="1735395361827" duration="1506000" />
+      <workItem from="1735395361827" duration="3691000" />
+      <workItem from="1735459618744" duration="1531000" />
     </task>
     <servers />
   </component>
