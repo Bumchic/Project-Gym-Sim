@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45be8d6a-053b-41d6-93fe-15da1a6f1db2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/GamePartView/GameView.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/GamePartView/GameView.axaml.cs" afterDir="false" />
-    </list>
+    <list default="true" id="45be8d6a-053b-41d6-93fe-15da1a6f1db2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +71,7 @@
       <workItem from="1735188892284" duration="127000" />
       <workItem from="1735189033984" duration="4491000" />
       <workItem from="1735219934101" duration="11851000" />
-      <workItem from="1735361165737" duration="10413000" />
+      <workItem from="1735361165737" duration="10538000" />
     </task>
     <servers />
   </component>
