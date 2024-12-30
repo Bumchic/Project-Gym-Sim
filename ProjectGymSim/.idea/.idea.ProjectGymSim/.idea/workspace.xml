@@ -5,41 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45be8d6a-053b-41d6-93fe-15da1a6f1db2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ProjectGymSim/SelectDifficulty/Window1.axaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectGymSim/SelectDifficulty/Window1.axaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/avalonia.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/avalonia.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/GamePartView/GameView.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/GamePartView/GameView.axaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/MainWindow.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/SelectDifficulty/Window1.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/SelectDifficulty/Window1.axaml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ref/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ref/ProjectGymSim.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/Avalonia/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/Avalonia/ProjectGymSim.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/ProjectGymSim.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/ProjectGymSim.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/ProjectGymSim.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/ProjectGymSim.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/ProjectGymSim.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,18 +27,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hhuyyyyyy13012004"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hhuyyyyyy13012004&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Bumchic/Project-Gym-Sim.git",
-    "accountId": "7aace0d2-3caa-4dce-b5de-2c971a71f32b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Bumchic/Project-Gym-Sim.git&quot;,
+    &quot;accountId&quot;: &quot;7aace0d2-3caa-4dce-b5de-2c971a71f32b&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -77,21 +47,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.ProjectGymSim.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "HHuy",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.ProjectGymSim.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;HHuy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ProjectGymSim" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -123,7 +93,8 @@
       <workItem from="1735188655366" duration="111000" />
       <workItem from="1735188892284" duration="127000" />
       <workItem from="1735189033984" duration="4491000" />
-      <workItem from="1735221913839" duration="4604000" />
+      <workItem from="1735221913839" duration="4776000" />
+      <workItem from="1735518696279" duration="658000" />
     </task>
     <servers />
   </component>

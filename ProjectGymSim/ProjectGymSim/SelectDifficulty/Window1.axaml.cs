@@ -36,7 +36,7 @@ public partial class Window1 : Window
     private void OpenGameView(int delay)
     {
         GameView.DelayTime = delay; 
-        var gameView = new GameView(); // Khởi tạo GameView
-        gameView.Show(); // Hiển thị cửa sổ GameView
+        var gameView = new GameView();
+        gameView.Show();
     }
 }
