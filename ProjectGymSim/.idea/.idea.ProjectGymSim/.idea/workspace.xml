@@ -4,7 +4,90 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45be8d6a-053b-41d6-93fe-15da1a6f1db2" name="Changes" comment="" />
+    <list default="true" id="45be8d6a-053b-41d6-93fe-15da1a6f1db2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4955.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4956.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4957.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4958.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4959.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4960.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4961.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4962.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4963.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4964.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4965.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4966.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4967.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4968.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4969.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4970.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4971.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4972.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4973.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4974.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4975.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4976.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4977.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4978.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4979.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4980.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4981.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4982.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4983.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4984.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4985.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4986.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4987.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4988.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4989.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4990.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4991.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4992.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4993.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4994.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4995.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4996.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4997.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4998.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4999.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5001.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5002.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5003.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5004.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5005.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5006.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5007.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5008.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5009.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5010.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5011.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5012.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5013.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5014.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5015.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5016.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5017.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5018.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5019.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5020.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5021.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5022.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5023.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5024.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5025.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5026.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5027.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5028.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5029.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5030.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5031.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5032.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5033.HEIC" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +155,7 @@
       <workItem from="1735189033984" duration="4491000" />
       <workItem from="1735219934101" duration="11851000" />
       <workItem from="1735361165737" duration="10538000" />
+      <workItem from="1735479132407" duration="1295000" />
     </task>
     <servers />
   </component>
