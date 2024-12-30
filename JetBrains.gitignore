@@ -75,9 +75,3 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
-ProjectGymSim/ProjectGymSim/obj/Debug/net8.0/Avalonia/resources
-ProjectGymSim/ProjectGymSim/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
-ProjectGymSim/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfo.cs
-ProjectGymSim/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfoInputs.cache
-ProjectGymSim/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.GeneratedMSBuildEditorConfig.editorconfig
-*.cs
