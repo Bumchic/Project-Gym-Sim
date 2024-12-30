@@ -4,10 +4,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="ProjectGymSim.GamePartView.GameView"
-        Title="GameView">
-    <ProgressBar Name="ProgressBar" Orientation="Vertical" Width="30" Maximum="100"
-                 Minimum="0">
+        Title="GameView" KeyDown="SpaceButton_OnKeyDown"
+        >
 
-    </ProgressBar>
+    <Panel Name="ThisPanel">
+        
+        <TextBlock Name="TextBlock" Background="Aqua"></TextBlock>
+        
+    </Panel>
+
+
 
 </Window>
