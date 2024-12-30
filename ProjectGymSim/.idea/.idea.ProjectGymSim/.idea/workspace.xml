@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45be8d6a-053b-41d6-93fe-15da1a6f1db2" name="Changes" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/Menu/MainMenu.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/Menu/MainMenu.axaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.dll" afterDir="false" />
@@ -13,6 +14,10 @@
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/resources" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.dll" afterDir="false" />

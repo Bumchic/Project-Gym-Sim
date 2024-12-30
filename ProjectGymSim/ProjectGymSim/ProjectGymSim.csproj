@@ -25,4 +25,8 @@
       <UpToDateCheckInput Remove="MenuView\StartMenu.axaml" />
       <UpToDateCheckInput Remove="GamePartView\GameView.axaml" />
     </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="image\" />
+    </ItemGroup>
 </Project>
