@@ -18,9 +18,11 @@
                 <MenuItem Header="Exit" Click="OnExitClick"/>
             </MenuItem>
             <MenuItem Header="Option" Foreground="Black">
-                 <MenuItem Header="Full Screen" Click="OnFullScreenClick"/>
-                 <MenuItem Header="800x600" Click="OnResize800x600Click"/>
-                 <MenuItem Header="1024x768" Click="OnResize1024x768Click"/>
+              <MenuItem Header="Resolution" Foreground="Black">
+                  <MenuItem Header="Full Screen" Click="OnFullScreenClick"/>
+                  <MenuItem Header="800x600" Click="OnResize800x600Click"/>
+                  <MenuItem Header="1024x768" Click="OnResize1024x768Click"/>
+              </MenuItem>
             </MenuItem>
         </Menu>
 
