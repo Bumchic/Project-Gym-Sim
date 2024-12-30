@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectGymSim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a33ef82e376bc557838ff44d020f170c49aec52")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+117f75e09670e22abc38b4a69c6e2d7ff7c466e8")]
+>>>>>>> parent of 3a33ef8 (Nothing)
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectGymSim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectGymSim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
