@@ -7,7 +7,7 @@
         Title="GameView" KeyDown="SpaceButton_OnKeyDown"
         >
 
-    <Panel>
+    <Panel Name="ThisPanel">
         
         <TextBlock Name="TextBlock" Background="Aqua"></TextBlock>
         

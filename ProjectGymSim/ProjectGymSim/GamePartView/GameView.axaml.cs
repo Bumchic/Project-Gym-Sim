@@ -18,11 +18,11 @@ public partial class GameView : Window
     public double Progress { get; set; }
     private const double UpperLim = 100.0;
     private const double LowerLim = 0.0;
-    private double PressProgress;
     public int Difficulty{get;set;}
     List<Image> GameFrame = new List<Image>();
     private Task BarTimer;
     private Task AddProgress;
+    private string Path;
     
     public GameView()
     {
@@ -34,35 +34,41 @@ public partial class GameView : Window
 
         this.Difficulty = difficulty;
         Progress = 50;
-        PressProgress = 0;
+        Path = "res";
         BarTimer = new Task(() =>
         {
             while (this.Progress > LowerLim)
             {
                 Progress--;
-
                 Console.WriteLine(Progress + 1);
                 Task.Delay(100).Wait();
             }
         });
-        
-        BarTimer.Start();
-        /*for (int i = 0; i < 2; i++)
-        {
-            using Stream stream = File.Open($"/ProjectGymSim/Assets/Frame{i}.png", FileMode.Open);
-            Image img = new Image()
+
+
+            for (int i = 0; i < 16; i++)
             {
-                Source = new Bitmap(stream),
-                IsVisible = false
-            };
-            GameFrame.Add(img);
-        }*/
+                using Stream stream = File.Open($"{Path}/Frame{i}.jpg", FileMode.Open);
+                Image img = new Image()
+                {
+                    Source = new Bitmap(stream),
+                    IsVisible = false
+                };
+                GameFrame.Add(img);
+                this.ThisPanel.Children.Add(img);
+            }
+        
+
+
 
     }
     
     public void SpaceButton_OnKeyDown(object? sender, KeyEventArgs e)
     {
-        Progress += 3;
-
+        if (e.Key != Key.Space)
+        {
+            return;
+        }
+        Progress += 1;
     }
 }

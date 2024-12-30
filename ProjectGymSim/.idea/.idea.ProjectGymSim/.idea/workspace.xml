@@ -6,87 +6,41 @@
   <component name="ChangeListManager">
     <list default="true" id="45be8d6a-053b-41d6-93fe-15da1a6f1db2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/GamePartView/GameView.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/GamePartView/GameView.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/GamePartView/GameView.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/GamePartView/GameView.axaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/ProjectGymSim.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/ProjectGymSim.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/resources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4955.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4956.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4957.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4958.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4959.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4960.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4961.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4962.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4963.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4964.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4965.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4966.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4967.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4968.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4969.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4970.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4971.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4972.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4973.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4974.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4975.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4976.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4977.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4978.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4979.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4980.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4981.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4982.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4983.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4984.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4985.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4986.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4987.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4988.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4989.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4990.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4991.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4992.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4993.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4994.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4995.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4996.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4997.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4998.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_4999.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5001.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5002.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5003.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5004.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5005.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5006.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5007.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5008.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5009.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5010.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5011.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5012.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5013.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5014.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5015.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5016.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5017.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5018.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5019.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5020.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5021.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5022.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5023.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5024.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5025.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5026.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5027.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5028.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5029.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5030.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5031.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5032.HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/IMG_5033.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ref/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ref/ProjectGymSim.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/Avalonia/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/Avalonia/ProjectGymSim.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/ProjectGymSim.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame9.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +53,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/261ea83c988816e3d8fe76b15b7ac6c10af64b8f9e739854f83c137c8ba9/SafeFileHandle.Windows.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -107,21 +64,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.ProjectGymSim.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Minh&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.ProjectGymSim.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Minh",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="ProjectGymSim" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -155,7 +112,7 @@
       <workItem from="1735189033984" duration="4491000" />
       <workItem from="1735219934101" duration="11851000" />
       <workItem from="1735361165737" duration="10538000" />
-      <workItem from="1735479132407" duration="1295000" />
+      <workItem from="1735479132407" duration="3663000" />
     </task>
     <servers />
   </component>

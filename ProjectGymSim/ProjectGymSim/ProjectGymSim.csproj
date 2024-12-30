@@ -21,6 +21,6 @@
     </ItemGroup>
 
     <ItemGroup>
-        <AvaloniaResource Include="ProjectGymSim\Assets\**"/>
+        <AvaloniaResource Include="ProjectGymSim\res\**"/>
     </ItemGroup>
 </Project>
