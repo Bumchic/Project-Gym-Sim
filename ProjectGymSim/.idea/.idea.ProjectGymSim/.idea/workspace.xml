@@ -6,15 +6,29 @@
   <component name="ChangeListManager">
     <list default="true" id="45be8d6a-053b-41d6-93fe-15da1a6f1db2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectGymSim/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/GamePartView/GameView.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/GamePartView/GameView.axaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/GamePartView/GameView.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/GamePartView/GameView.axaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/ProjectGymSim.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/ProjectGymSim.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/ProjectGymSim.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/bin/Debug/net8.0/res/Frame9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/ProjectGymSim.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/Avalonia/resources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ProjectGymSim.dll" afterDir="false" />
@@ -24,23 +38,6 @@
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ref/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/ref/ProjectGymSim.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/Avalonia/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/Avalonia/ProjectGymSim.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/ProjectGymSim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectGymSim/obj/Debug/net8.0/refint/ProjectGymSim.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectGymSim/res/Frame9.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +66,13 @@
     ".NET Project.ProjectGymSim.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Minh",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
