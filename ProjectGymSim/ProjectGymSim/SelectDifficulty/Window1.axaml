@@ -11,7 +11,7 @@
             <ColumnDefinition Width="0.7*"/>
         </Grid.ColumnDefinitions>
         
-        <Grid Grid.Column="0" Margin="5" Background="Silver">
+        <Grid Grid.Column="0" Margin="5" Background="Black">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>
                 <RowDefinition Height="*"/>
@@ -26,7 +26,7 @@
             </StackPanel>
         </Grid>
         
-        <Border Grid.Column="1" Margin="5" BorderBrush="Black" BorderThickness="1"
+        <Border Grid.Column="1" Margin="5" BorderBrush="White" BorderThickness="1"
                 HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
     </Grid>
     
